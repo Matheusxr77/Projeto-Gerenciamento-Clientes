@@ -1,4 +1,4 @@
-const pool = require('../config/conexão');
+const pool = require('../config/conexao');
 
 const Cliente = require('../models/cliente');
 
