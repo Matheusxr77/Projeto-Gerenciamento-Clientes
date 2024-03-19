@@ -38,9 +38,14 @@ Siga cada passo cuidadosamente para garantir uma execução plena do projeto.
     password: 'your-password'
     ```
 
-- Inicie o projeto na url local após o uso do comando:
+- Inicie o projeto backend após o uso do comando:
     ```
     node app.js
+    ```
+
+- Inicie o projeto frontend após o uso do comando:
+    ```
+    npm start
     ```
 
 ## Instruções
